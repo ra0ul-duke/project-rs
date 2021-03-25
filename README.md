@@ -1,7 +1,7 @@
 # project//RS
 Adding new stages to SSBM, making use of the **m-ex** system
 
-By Raoul Duke & Syrox
+By myself & Syrox
 
 Credits:
 * PM/P+ DT, for Metal Cavern, Infinite Glacier, Norfair Lab, the Premier Stadium model, and the Onett-ville Inspiration
