@@ -4,7 +4,8 @@ Adding new stages to SSBM, making use of the **m-ex** system
 By myself & Syrox
 
 Credits:
-* PM/P+ DT, for Metal Cavern, Infinite Glacier, Norfair Lab, the Premier Stadium model, and the Onett-ville Inspiration
+* PM/P+ DT, for Metal Cavern, Infinite Glacier, Norfair Lab, and the the Premier Stadium model
+* LegacyTE, for Onett-ville
 * MarioDox, for the initial "Great Bay Secret" model
 * soopercool101, DSX8, Ebola16, and Edwguard Flows for the Kalos model
 * Peardian, for the initial Cookie Land model
